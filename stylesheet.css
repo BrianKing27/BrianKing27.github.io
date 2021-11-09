@@ -1,8 +1,12 @@
-body {
+html, body {
     background-image: url(file:///C:/Users/admin/Documents/DevCodeCamp/10/Portfolio/BrianKing27.github.io/portfolio%20backgound%2010.jpg);
-    background-position:top;
-    background-size:cover;
     background-color: #f6f6f6;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    margin: 0;
+    overflow-x: hidden;
+    height: 100%;
 }
 
 div.container.page-one {
