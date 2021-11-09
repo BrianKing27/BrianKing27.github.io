@@ -1,0 +1,133 @@
+body {
+    background-image: url(file:///C:/Users/admin/Documents/DevCodeCamp/10/Portfolio/BrianKing27.github.io/portfolio%20backgound%2010.jpg);
+    background-position:top;
+    background-size:cover;
+    background-color: #f6f6f6;
+}
+
+div.container.page-one {
+    position: absolute;
+    height: 100%;
+    width: 1080px;
+    margin: 0;
+    padding: 0;
+}
+div.container.my-name-title {
+    position: relative;
+    top: 6%;
+    left: 3%;
+    width: 100%;
+    margin: 0px;
+    font-family: 'chennai';
+    color: #58B6E4;
+
+}
+
+h1.firstname{
+    position: relative;
+    font-size: 80px;
+    top: 15px;
+}
+
+h1.lastname{
+    position: relative;
+    left: 30px;
+    font-size: 80px;
+}
+
+h2.my-title{
+    position: relative;
+    bottom: 15px;
+    font-size: 48px;
+    width: 115%;
+}
+
+div.nav-buttons{
+    width: 150%
+}
+
+.btn {
+    color: #58B6E4;
+    background-color: #CDDFE9;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #707070;
+    width: 35px;
+    height: 35px;
+    margin-right: 7.5%;
+}
+
+.btn-circle {
+    border-radius: 30px;
+
+}
+
+div.contacts-title {
+    position: relative;
+    top: 14%;
+    left: 7%;
+    margin: 0;
+    font-family: 'chennai';
+    color: #58B6E4;
+
+}
+h3.contact-me {
+    font-size: 40px;
+}
+
+div.container.contact-info {
+    position:relative;
+    top: 15%;
+    left: 3%;
+    margin: 0;
+    border-style: solid;
+    border-color: #707070;
+    background-color: #F7F7F7;
+    border-width: 2px;
+    border-radius: 50px 50px 50px 50px;
+    height: 200px;
+    width: 50%;
+}
+
+div.container.contact-info-1 {
+    position:relative;
+    top: 15%;
+    left: 3%;
+    margin: 0;
+    border-style: solid;
+    border-color: #707070;
+    background-color: #CDDFE9;
+    border-width: 1px;
+    border-radius: 50px 50px 50px 50px;
+    height: 15%;
+    width: 75%;
+    color:#1592DD ;
+}
+div.container.contact-info-2 {
+    position:relative;
+    top: 28%;
+    left: 3%;
+    margin: 0;
+    border-style: solid;
+    border-color: #707070;
+    background-color: #CDDFE9;
+    border-width: 1px;
+    border-radius: 50px 50px 50px 50px;
+    height: 15%;
+    width: 75%;
+    color:#1592DD ;
+}
+div.container.contact-info-3 {
+    position:relative;
+    top: 41%;
+    left: 3%;
+    margin: 0;
+    border-style: solid;
+    border-color: #707070;
+    background-color: #CDDFE9;
+    border-width: 1px;
+    border-radius: 50px 50px 50px 50px;
+    height: 15%;
+    width: 75%;
+    color:#1592DD ;
+}
