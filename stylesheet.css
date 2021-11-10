@@ -181,3 +181,22 @@ div.projects-card-area {
 
     border-style: solid;
 }
+
+div.container.github {
+    position:absolute;
+    top: 225%;
+    width: 50%;
+    height: 20%;
+    margin: 0;
+    font-family: 'chennai';
+    color: #58B6E4;
+}
+
+div.github-link-area {
+    position: relative;
+    border: 3px;
+    border-radius: 30px;
+    height: 100%;
+
+    border-style: solid;
+}
