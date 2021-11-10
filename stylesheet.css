@@ -135,3 +135,49 @@ div.container.contact-info-3 {
     width: 75%;
     color:#1592DD ;
 }
+
+h2.container.about-me{
+    position:absolute;
+    top: 100%;
+    margin: 0;
+    font-family: 'chennai';
+    color: #58B6E4;
+
+}
+
+div.container.tech-skills{
+    position:absolute;
+    top: 105%;
+    margin: 0;
+    font-family: 'chennai';
+    color: #58B6E4;
+
+}
+
+div.container.bio {
+    position:absolute;
+    top: 120%;
+    margin: 0;
+    font-family: 'chennai';
+    color: #58B6E4;
+}
+
+div.container.projects {
+    position:absolute;
+    top: 175%;
+    left: 70%;
+    width: 50%;
+    height: 20%;
+    margin: 0;
+    font-family: 'chennai';
+    color: #58B6E4;
+}
+
+div.projects-card-area {
+    position: relative;
+    border: 3px;
+    border-radius: 30px;
+    height: 100%;
+
+    border-style: solid;
+}
